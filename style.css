@@ -3,7 +3,8 @@
     background-color: aliceblue;
 }
 
-.title {
+.title,
+.enphasis {
     font-weight: bold;
     color: rgb(8, 165, 165);
 }
