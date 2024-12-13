@@ -2,3 +2,8 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: aliceblue;
 }
+
+.title {
+    font-weight: bold;
+    color: rgb(8, 165, 165);
+}
